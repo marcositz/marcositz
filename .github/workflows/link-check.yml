@@ -1,0 +1,39 @@
+name: Verificar links e ícones
+
+on:
+  schedule:
+    - cron: '0 8 1 * *' # dia 1 de cada mês, 05:00 (horário de Brasília)
+  workflow_dispatch: # permite rodar manualmente na aba Actions
+
+jobs:
+  linkcheck:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Checar links e imagens
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >
+            --no-progress
+            --exclude instagram.com
+            --exclude mastodon.social
+            README.md
+            https://raw.githubusercontent.com/marcositz/siteloja/main/README.md
+            https://raw.githubusercontent.com/marcositz/modelosite/main/README.md
+            https://raw.githubusercontent.com/marcositz/Dashboard_Vision_Informatica/main/README.md
+            https://marcositz.github.io/siteloja/
+            https://marcositz.github.io/modelosite/
+          fail: false
+
+      - name: Abrir issue se houver links quebrados
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: '🔗 Links ou ícones quebrados detectados nos READMEs'
+          content-filepath: ./lychee/out.md
+          labels: manutencao
