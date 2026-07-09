@@ -43,15 +43,6 @@
 
 ---
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marcositz&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcositz&layout=compact&theme=default&hide_border=true" />
-</p>
-
----
-
 ### 📫 Contato
 
 [![Blog](https://img.shields.io/badge/Blog-marcosblog.com.br-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://marcosblog.com.br)
