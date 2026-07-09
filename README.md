@@ -17,7 +17,7 @@
 ### <img src="https://api.iconify.design/tabler/rocket.svg?color=%238b949e" width="22" height="22" valign="middle" alt=""/> Sobre mim
 
 - <img src="https://api.iconify.design/tabler/code.svg?color=%238b949e" width="16" height="16" valign="middle" alt=""/> Desenvolvo **sistemas web** com foco em **educação** (registro de aulas, tarefas, BNCC) e ferramentas do dia a dia
-- <img src="https://api.iconify.design/tabler/plant-2.svg?color=%238b949e" width="16" height="16" valign="middle" alt=""/> Sempre aprendendo — atualmente aprofundando em **TypeScript** e **automação com IA**
+- <img src="https://api.iconify.design/tabler/plant-2.svg?color=%238b949e" width="16" height="16" valign="middle" alt=""/> Sempre aprendendo — atualmente aprofundando em **TypeScript** e **automação de fluxos com n8n**
 - <img src="https://api.iconify.design/tabler/tools.svg?color=%238b949e" width="16" height="16" valign="middle" alt=""/> Gosto de transformar ideias em apps funcionais, do front ao back
 - <img src="https://api.iconify.design/tabler/world.svg?color=%238b949e" width="16" height="16" valign="middle" alt=""/> Brasil · escrevo no blog [marcosblog.com.br](https://marcosblog.com.br)
 
