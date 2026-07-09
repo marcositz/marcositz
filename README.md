@@ -37,8 +37,6 @@
 | Projeto | Descrição |
 |---|---|
 | 💰 [Dashboard Vision Informática](https://github.com/marcositz/Dashboard_Vision_Informatica) | Sistema financeiro / painel de gestão |
-| 🎰 [Resultado Loterias](https://github.com/marcositz/ResultadoLoterias) | Consulta de resultados das loterias da Caixa via API |
-| ❓ [Sistema de Sorteio de Perguntas](https://github.com/marcositz/SistemaSorteioPerguntas) | Ferramenta de quiz/sorteio de perguntas para a sala de aula |
 | 🛍️ [Site Loja](https://github.com/marcositz/siteloja) | Site de loja / e-commerce em HTML e CSS |
 
 ---
