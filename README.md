@@ -1,28 +1,3 @@
-<h1 align="center">
-  <img src="https://api.iconify.design/tabler/hand-stop.svg?color=%238b949e" width="28" height="28" valign="middle" alt=""/>
-  Olá, eu sou o Marcos
-</h1>
-
-<p align="center">
-  <b>Desenvolvedor Web full-stack · Sistemas educacionais e ferramentas para a sala de aula</b>
-</p>
-
-<p align="center">
-  Crio aplicações web que resolvem problemas reais — do controle de aulas alinhado à BNCC
-  a ferramentas de produtividade para professores e pequenos negócios.
-</p>
-
----
-
-### <img src="https://api.iconify.design/tabler/rocket.svg?color=%238b949e" width="22" height="22" valign="middle" alt=""/> Sobre mim
-
-- <img src="https://api.iconify.design/tabler/code.svg?color=%238b949e" width="16" height="16" valign="middle" alt=""/> Desenvolvo **sistemas web** com foco em **educação** (registro de aulas, tarefas, BNCC) e ferramentas do dia a dia
-- <img src="https://api.iconify.design/tabler/plant-2.svg?color=%238b949e" width="16" height="16" valign="middle" alt=""/> Sempre aprendendo — atualmente aprofundando em **automação de fluxos com n8n**
-- <img src="https://api.iconify.design/tabler/tools.svg?color=%238b949e" width="16" height="16" valign="middle" alt=""/> Gosto de transformar ideias em apps funcionais, do front ao back
-- <img src="https://api.iconify.design/tabler/world.svg?color=%238b949e" width="16" height="16" valign="middle" alt=""/> Brasil · escrevo no blog [marcosblog.com.br](https://marcosblog.com.br)
-
----
-
 ### <img src="https://api.iconify.design/tabler/briefcase.svg?color=%238b949e" width="22" height="22" valign="middle" alt=""/> Tecnologias
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
